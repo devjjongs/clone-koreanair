@@ -1,0 +1,56 @@
+body{
+    font-family: "Noto Sans KR","Malgun Gothic",sans-serif;
+}
+#section1{
+    margin: 60px 0 20px 105px;
+}
+#title1{
+    font-weight: 400;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+#title2{
+    font-size: 16px;
+}
+#title3{
+    display: inline-block;
+    border: 0;
+    background: none;
+    color: #0064de;
+    text-decoration: none;
+}
+
+#section2{
+    margin: 40px 0 20px 105px;
+}
+.content{
+    display: block;
+    color: #767676;
+    font-size: 14px;
+    line-height: 1.58;
+    margin-bottom: 15px;
+}
+input{
+    width: 600px;
+    height: 40px;
+    font-size: 20px;
+    border: 0;
+    border-bottom: 1px solid #00256c;
+}
+input:focus{
+    outline:1px solid #00256c;
+}
+select{
+    width: 600px;
+    height: 40px;
+    font-size: 18px;
+    border: 0;
+    border-bottom: 1px solid #00256c;
+}
+#content1, #content3{
+    float: left;
+    margin-right: 100px;
+}
+#part1{
+    margin-bottom: 50px ;
+}
